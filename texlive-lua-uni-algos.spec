@@ -1,6 +1,6 @@
 Name:		texlive-lua-uni-algos
 Version:	62204
-Release:	1
+Release:	2
 Summary:	Unicode algorithms for LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lua-uni-algos
