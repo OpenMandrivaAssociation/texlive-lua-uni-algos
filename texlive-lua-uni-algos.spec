@@ -3,7 +3,7 @@ Version:	62204
 Release:	2
 Summary:	Unicode algorithms for LuaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lua-uni-algos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lua-uni-algos
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lua-uni-algos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lua-uni-algos.doc.r%{version}.tar.xz
